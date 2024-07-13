@@ -74,7 +74,7 @@ nav a{
     margin:5px;
 }
 .about{
-    padding: 130px;
+    padding: 60px;
     border-radius: 10px;
     background-color:#FFF8F3;
     margin: 130px;
@@ -111,4 +111,12 @@ main
 }
 .about-description{
     padding-bottom: 20px;
+}
+.section-title{
+    text-align: center;
+    padding-top: 20px;
+}
+.section-description{
+    text-align: center;
+    padding: 30px 130px;
 }
