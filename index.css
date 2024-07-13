@@ -93,3 +93,22 @@ nav a{
 span{
     padding-left: 10px;
 }
+main
+{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-information-container{
+    display:flex;
+    justify-content: space-around;
+}
+.about{
+    text-align: center;
+}
+.about-title{
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.about-description{
+    padding-bottom: 20px;
+}
